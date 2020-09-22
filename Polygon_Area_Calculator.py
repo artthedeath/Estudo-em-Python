@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 11 12:52:41 2020
 
-@author: arthu
+@author: Arthur Donizeti Rodrigues Dias
 """
 
 class Rectangle:
