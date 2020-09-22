@@ -125,5 +125,5 @@ def arithmetic_arranger(problems, resultado = False):
             return s    
     
  
-print(arithmetic_arranger(["1 + 2000", "200 - 10", "2100 - 300", "3000 + 4","4 - 5"],True))
+
 
