@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 11 16:15:56 2020
 
-@author: arthu
+@author: Arthur DOnizeti Rodrigues Dias
 """
 from copy import deepcopy
 import random
