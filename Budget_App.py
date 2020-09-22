@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 27 10:49:39 2020
 
-@author: arthur
+@author: Arthur Donizeti Rodrigues Dias
 """
 
 
